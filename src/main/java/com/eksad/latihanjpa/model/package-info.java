@@ -1,0 +1,1 @@
+package com.eksad.latihanjpa.model;
